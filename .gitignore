@@ -1,4 +1,4 @@
 .DS_Store
 .tmp
 *.code-workspace
-.vscode
+*.vscode
